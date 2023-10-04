@@ -37,8 +37,8 @@ We welcome contributions and corrections to this resource either way:
 
 ## References
 
-- F. Aponte, L. Gutierrez, M. Pineda, I. Meri ̃no, A. Salazar, P. Wightman, (2021). Cluster-Based Classification of Blockchain Consensus Algorithms. *IEEE Latin America Transactions* 19 (4), 688–696. https://doi.org/doi:10.1109/TLA.2021.9448552
-- E. Filatovas, M. Marcozzi, L. Mostarda, R. Paulaviˇcius. (2022). A MCDM-based framework for blockchain consensus protocol selection. *Expert Systems with Applications*, 204 , 117609. https://doi.org/doi:10.1016/j.eswa.2022.117609
+- F. Aponte, L. Gutierrez, M. Pineda, I. Merino, A. Salazar, P. Wightman, (2021). Cluster-Based Classification of Blockchain Consensus Algorithms. *IEEE Latin America Transactions* 19 (4), 688–696. https://doi.org/doi:10.1109/TLA.2021.9448552
+- E. Filatovas, M. Marcozzi, L. Mostarda, R. Paulavičius. (2022). A MCDM-based framework for blockchain consensus protocol selection. *Expert Systems with Applications*, 204 , 117609. https://doi.org/doi:10.1016/j.eswa.2022.117609
 - R. Xu, D. Wunsch, (2005). Survey of clustering algorithms. *IEEE Transactions on neural networks* 16 (3), 645–678. https://doi.org/doi:10.1109/TNN.2005.845141
 - D. Xu, Y. Tian, (2015). A comprehensive survey of clustering algorithms. *Annals of Data Science* 2, 165–193. https://doi.org/doi:10.1007/s40745-015-0040-1
 
