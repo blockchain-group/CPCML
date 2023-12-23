@@ -32,7 +32,9 @@ This repository provides a quantitative data-driven classification methodology t
 
 We welcome contributions and corrections to this resource either way:
 
-- **common way** - send us your comments, corrections or suggestions by email: [marco.marcozzi@mif.vu.lt](mailto:marco.marcozzi@mif.vu.lt), [ernestas.filatovas@mif.vu.lt](mailto:ernestas.filatovas@mif.vu.lt), [remigijus.paulavicius@mif.vu.lt](mailto:remigijus.paulavicius@mif.vu.lt)
+- **common way** - send us your comments, corrections or suggestions by email: [marco.marcozzi@mif.vu.lt](mailto:marco.marcozzi@mif.vu.lt), [ernestas.filatovas@mif.vu.lt](mailto:ernestas.filatovas@mif.vu.lt),
+[linas.stripinis@mif.vu.lt](mailto:linas.stripinis@mif.vu.lt), 
+[remigijus.paulavicius@mif.vu.lt](mailto:remigijus.paulavicius@mif.vu.lt)
 - **modern way** - [fork](https://help.github.com/articles/fork-a-repo/) github repository, add new information & correct existing, then create a [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) and  we gratefully incorporate your contribution!
 
 ## References
